@@ -15,3 +15,8 @@ Une balise html s'écrit : `<maBalise></maBalise>`
 Le texte s'écrit **entre les balises**
 
 **Ex:** `<hl>Mon texte</hl>`
+
+Il existe aussi des valises orphelines : 
+`<!DOCTYPE>, <br>, <img>...`
+
+Référence : Mozilla [https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)
