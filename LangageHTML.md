@@ -20,3 +20,15 @@ Il existe aussi des valises orphelines :
 `<!DOCTYPE>, <br>, <img>...`
 
 Référence : Mozilla [https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)
+
+Une balise ouvrante peut contenir un attribut notament `class=""`:
+
+`<h1 class="maClasse"></h1>
+
+Quelques balises importantes:
+- `<h1></h1>` : titre
+- `<p></p>`   : paragraphe
+- `< href=""></a>` : lien
+- `<ul></ul>`
+- `<ol></ol>`  
+-`<li></li>` : liste
